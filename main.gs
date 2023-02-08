@@ -1,7 +1,7 @@
 // @ts-nocheck
 // 参考: https://qiita.com/ryosuk/items/1a18c663884d2748d4ca
 // API_TOKENはワークスペースごとに設定
-var API_TOKEN = "xoxp-4141846193926-4182891036818-4316676314433-fae1c262a3a3a5fdb8bc45f17d159aff";
+var API_TOKEN = ;
 
 var target_year = '2023-01-18'; // 対象となる期間の最古日付
 
